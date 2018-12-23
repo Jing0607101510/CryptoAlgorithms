@@ -1,0 +1,4 @@
+实现的是DES分组密码的5种工作模式
+主函数在Block_DES.py
+Block_DES_ui.py主要是实现界面
+Block_DES.ui是设计ui的文件

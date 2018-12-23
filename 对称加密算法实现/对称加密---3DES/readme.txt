@@ -1,0 +1,4 @@
+实现的是3DES的加密算法
+主函数在3DES.py
+three_DES_ui.py主要是实现界面
+three_DES.ui是设计ui的文件

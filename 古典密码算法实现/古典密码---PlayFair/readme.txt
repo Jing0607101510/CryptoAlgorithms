@@ -1,0 +1,4 @@
+实现的是Playfair加密算法
+主函数在Playfair.py
+Playfair_ui.py主要是实现界面
+Playfair.ui是设计ui的文件

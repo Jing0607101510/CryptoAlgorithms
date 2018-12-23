@@ -1,0 +1,4 @@
+实现的是AES分组密码的5种工作模式
+主函数在Block_AES.py
+Block_AES_ui.py主要是实现界面
+Block_AES.ui是设计ui的文件
